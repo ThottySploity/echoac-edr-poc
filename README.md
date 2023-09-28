@@ -1,6 +1,6 @@
 # Echo Anticheat exploit disabling Antivirus and Endpoint Detection and Response (EDR)
 
-Write-up of the exploit can be found here: 
+Write-up of the exploit can be found here: https://thottysploity.github.io/posts/echohno/
 
 ## Disabling Antivirus and EDR through the use of EchoDrv
 
